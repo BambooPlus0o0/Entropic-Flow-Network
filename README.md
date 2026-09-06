@@ -225,8 +225,7 @@ If you use this code or build on this work, please cite the accepted paper. The 
 @inproceedings{wang2026entropic,
   author    = {Jiahui Wang and Mingheng Jiao and Linchao Zhao and Kun Yue},
   title = {Entropic Flow Network for Bayesian Network Structure Learning},
-  booktitle = {2026 IEEE International Conference on Data Mining (ICDM)},
+  booktitle = {Proceedings of the 2026 IEEE International Conference on Data Mining (ICDM)},
   year      = {2026},
-  note      = {Accepted paper, Paper ID DM1428}
 }
 ```
